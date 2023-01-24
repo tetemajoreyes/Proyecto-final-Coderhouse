@@ -1,0 +1,12 @@
+Para la creacion de la BD de Rent The Runway se deben ejecutar en orden los siguientes archivos:
+0. Creación de Esquema y Tablas:En este archivo se cra el esquema llamado rent_runway y las tablas correspondientes a esta.
+1. Insercion de datos: Este archio contiene el script de insercion de datos 
+2. Vistas: Archivo con las vistas creadas
+3. Funciones: Archivo con las funciones creadas
+4. Stored Procedures: Archivo con los procesos almacenados creados
+5. Triggers y tablas de auditorias: Archivo con las 2 tablas de auditorias creadas y trigger diseñados
+6. Script DCL- Usuarios y permisos: Archivo de creacion de usuarios con diferentes atributos
+7. Script TCL: Archivo con ejemplos de control de transacciones
+8. Backup de BD : Contiene un archivo con integral con estructura y datos y otro con solo las tablas
+9. Diagrama ER : archivo con el diagrama de ER elaborado en workbench
+10. Reporteria Informes en Power BI : Archivo pbix. con los reportes generados apartir de la BD en Power BI
